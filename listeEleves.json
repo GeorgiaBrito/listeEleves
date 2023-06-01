@@ -1,0 +1,12 @@
+{
+    "eleves":[
+        {"id_etudiant": "00", "nom":"Aucun étudiant sélectionné", "session": "1", "cours": []},
+        {"id_etudiant": "01", "nom":"Jean", "session": "1", "cours": ["Prog1"]},
+        {"id_etudiant": "02", "nom":"Alice", "session": "2", "cours": ["Prog2"]},
+        {"id_etudiant": "03", "nom":"Carlos", "session": "1", "cours": ["Web"]},
+        {"id_etudiant": "04", "nom":"Georgia", "session": "2", "cours": ["Mobile"]},
+        {"id_etudiant": "05", "nom":"Henrique", "session": "1", "cours": ["BD"]},
+        {"id_etudiant": "06", "nom":"Bob", "session": "2", "cours": ["HTML"]},
+        {"id_etudiant": "07", "nom":"Maria", "session": "1", "cours": ["Prog1"]}
+    ]
+}
